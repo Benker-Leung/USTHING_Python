@@ -1,3 +1,10 @@
-import getEventsDetails
+from eventsDetails import RecruitTalkEvents
 
-test = getEventsDetails.getDetails
+
+c = RecruitTalkEvents('lyleungad', 'password')
+
+c.__fn()
+
+
+
+#
